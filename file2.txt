@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is file 2
 New line added in file2
+=======
+Modified the file in newbranch
+>>>>>>> newbranch
